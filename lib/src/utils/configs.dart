@@ -1,6 +1,6 @@
 import 'package:connectycube_sdk/connectycube_sdk.dart';
 
-const String appId = "476";
+const String appId = "8016";
 const String authKey = "f6kU3fThOg7CQFv";
 const String authSecret = "5VVM5XORECzBAgA";
 const String apiEndpoint = 'https://api.connectycube.com';
